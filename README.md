@@ -3,6 +3,9 @@
 22/10/2025 
 URL DEL GITHUB : https://github.com/andyladera/PE_II_EXAMEN_PRACTICO
 
+Lenjuaje : JAVA
+Base de datos : MYSQL
+
 # EVIDENCIA DE LAS MEJORAS
 
 
